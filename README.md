@@ -1,4 +1,4 @@
-## Hi there 👋
+## はじめまして 👋
 
 <!--
 **kiyoko-chan99/kiyoko-chan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
